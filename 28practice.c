@@ -1,3 +1,4 @@
+/*find unique element (include test cases)*/
 #include <stdio.h>
 
 int main() {
